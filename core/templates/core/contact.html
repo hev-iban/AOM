@@ -3,13 +3,80 @@
 {% block title %}Contact{% endblock %}
 
 {% block content %}
-    <h1>Contact Information</h1>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Angelite Online Marketplace</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        p {
+            margin: 10px 0;
+            text-align: justify; /* Added to justify text */
+        }
+        .contact-info {
+            margin-top: 20px;
+            padding: 10px;
+            background: #f9f9f9;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+        .contact-info p {
+            margin: 5px 0;
+            text-align: justify; /* Added to justify text */
+        }
+        .contact-info a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Us</h1>
+        <p>We’d love to hear from you! Whether you have questions, feedback, or need support, feel free to reach out to us using the information below.</p>
 
-    <p>We’d love to hear from you! Whether you have questions, feedback, or need support, feel free to reach out to us using the information below.</p>
+        <div class="contact-info">
+            <p><strong>Email:</strong> <a href="mailto:aom@gmail.com">aom@gmail.com</a></p>
+            <p><strong>Phone:</strong> 09123 456 790</p>
+            <p><strong>Address:</strong> Holy Angel St, Angeles, 2009 Pampanga, Philippines</p>
+        </div>
 
-    <p><strong>Email:</strong> <a href="mailto:aom@gmail.com">aom@gmail.com</a></p>
-
-    <p><strong>Phone:</strong> 09123 456 790</p>
-
-    <p><strong>Address:</strong> Holy Angel St, Angeles, 2009 Pampanga, Philippines</p>
+        <div class="footer">
+            <p>&copy; 2024 Angelite Online Marketplace. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
 {% endblock %}
