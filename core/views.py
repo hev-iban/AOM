@@ -13,3 +13,12 @@ def index(request):
 
 def contact(request):
     return render(request, 'core/contact.html')
+
+def privacy(request):
+    return render(request,'core/privacy.html')
+
+def term_use(request):
+    return render(request, 'core/term_use.html')
+
+def about(requesst):
+    return render(requesst, 'core/about.html')
