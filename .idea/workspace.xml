@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6eeb1f-59bf-4597-ab20-82ea068b1243" name="Changes" comment="" />
+    <list default="true" id="8f6eeb1f-59bf-4597-ab20-82ea068b1243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dashboard/templates/dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOM/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOM/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOM/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOM/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/templates/item/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,26 +27,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hev-iban"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hev-iban&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hev-iban/AOM.git",
-    "accountId": "8062c660-e937-4a63-81a0-f0439238deea"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hev-iban/AOM.git&quot;,
+    &quot;accountId&quot;: &quot;8062c660-e937-4a63-81a0-f0439238deea&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -45,23 +56,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Django Server.AOM.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.AOM.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AOM" type="Python.DjangoServer" factoryName="Django server">
       <module name="AOM" />
@@ -106,7 +117,14 @@
       <option name="presentableId" value="Default" />
       <updated>1726321425141</updated>
       <workItem from="1726321436220" duration="16389000" />
-      <workItem from="1726376486613" duration="29492000" />
+      <workItem from="1726376486613" duration="30497000" />
+      <workItem from="1726619615085" duration="16000" />
+      <workItem from="1726620569736" duration="3820000" />
+      <workItem from="1726625923405" duration="909000" />
+      <workItem from="1726628620525" duration="1367000" />
+      <workItem from="1726630124109" duration="16000" />
+      <workItem from="1726664739558" duration="361000" />
+      <workItem from="1726762314900" duration="610000" />
     </task>
     <servers />
   </component>
