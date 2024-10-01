@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f6eeb1f-59bf-4597-ab20-82ea068b1243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dashboard/templates/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dashboard/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOM/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOM/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOM/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOM/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/templates/item/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +116,9 @@
       <workItem from="1726630124109" duration="16000" />
       <workItem from="1726664739558" duration="361000" />
       <workItem from="1726762314900" duration="610000" />
+      <workItem from="1727039280079" duration="386000" />
+      <workItem from="1727085531343" duration="149000" />
+      <workItem from="1727099285916" duration="3000" />
     </task>
     <servers />
   </component>
