@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f6eeb1f-59bf-4597-ab20-82ea068b1243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/inbox/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inbox/templates/conversation/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inbox/templates/conversation/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inbox/templates/conversation/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inbox/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOM/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOM/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOM/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOM/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/templates/item/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -119,6 +131,10 @@
       <workItem from="1727039280079" duration="386000" />
       <workItem from="1727085531343" duration="149000" />
       <workItem from="1727099285916" duration="3000" />
+      <workItem from="1727784879585" duration="2349000" />
+      <workItem from="1727886149791" duration="48000" />
+      <workItem from="1727927827874" duration="7054000" />
+      <workItem from="1727940149874" duration="2299000" />
     </task>
     <servers />
   </component>
